@@ -65,17 +65,14 @@ ______________________________________
 ║ _Vous avez effectué la première étape de déploiement de votre bot._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║  ☀️ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 🌙
+║❒ *Owner:* _https://wa.me/237656520674_
+║❒ *Repo:* _https://github.com/RayanHack5/KERM-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw_
 ╚════════════════════════╝
 _____________________________________
 
-_Don't Forget To Give Star To My Repo_`
+_N'oubliez pas de laisser une petite étoile sur le repo😉_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
